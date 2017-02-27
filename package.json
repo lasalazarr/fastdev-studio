@@ -1,0 +1,20 @@
+{
+  "name": "fastdev-studio",
+  "version": "1.0.0",
+  "description": "Fastdev Microservices developer studio",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/lasalazarr/fastdev-studio",
+  "keywords": [
+    "Electron",
+    "Fastdev",
+    "Microservices"
+  ],
+  "author": "GitHub",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
