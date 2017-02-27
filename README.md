@@ -1,4 +1,4 @@
-# electron-quick-start
+# fastdev-studio
 
 **Clone and run for a quick way to see fastdev-studio in action.**
 
